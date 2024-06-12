@@ -21,24 +21,9 @@
 - [Netlify](https://www.netlify.com/) - zero-config deployment
 
 
-## Checklist
-
-When you use this template, try follow the checklist to update your info properly
-
-- [ ] Rename `name` and `author` fields in `package.json`
-- [ ] Change the author name in `LICENSE`
-- [ ] Change the title in `index.html`
-- [ ] Change the favicon in `public`
-- [ ] Modify the manifest in `public`
-- [ ] Clean up the README's
-
-And, enjoy :)
-
-## Usage
-
 ### Development
 
-Just run and visit http://127.0.0.1:3000/
+Run and visit http://127.0.0.1:3000/
 
 ```bash
 yarn dev
@@ -55,11 +40,13 @@ yarn build
 And you will see the generated file in `dist` that ready to be served.
 
 
-### Issues
 
 #### Husky
 
 If pre-commit hooks are not working be sure that you have installed husky: `husky install`.
 
 By default this command should be triggered after yarn/npm deps are installed.
+
+![image](https://github.com/vishnu-nt/react-table-global-filter/assets/22218316/501ae93b-7924-46c2-8155-af4cab48e2cc)
+
 
